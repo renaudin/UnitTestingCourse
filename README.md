@@ -1,3 +1,4 @@
+![Unit tests](https://github.com/renaudin/UnitTestingCourse/workflows/Unit%20tests/badge.svg?branch=main)
 # Introduction to Unit Testing with Python and GitHub
 
 This repository accompanies the Oxford RSE online course delivered on 17 Feb 2021.
